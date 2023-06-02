@@ -1,0 +1,12 @@
+1
+Hamburguesa con Queso
+1,carne,2.0---3,queso,1.03.0
+2
+Hamburguesa con Lechuga
+1,carne,2.0---2,lechuga,0.52.5
+3
+Hamburguesa Completa
+1,carne,2.0---2,lechuga,0.5---3,queso,1.0---6,bacon,0.7---5,cebolla,0.4---4,tomate,0.655.250000000000001
+4
+Hamburguesa sin Tomate
+1,carne,2.0---3,queso,1.0---6,bacon,0.7---5,cebolla,0.4---2,lechuga,0.54.6000000000000005

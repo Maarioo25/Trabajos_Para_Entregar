@@ -1,0 +1,89 @@
+<Hamburguesas>
+   <Hamburguesa id="1" Precio="3.0">
+      <Nombre>Hamburguesa con Queso</Nombre>
+      <ingrediente>
+         <id>1</id>
+         <name>carne</name>
+         <price>2.0</price>
+      </ingrediente>
+      <ingrediente>
+         <id>3</id>
+         <name>queso</name>
+         <price>1.0</price>
+      </ingrediente>
+   </Hamburguesa>
+   <Hamburguesa id="2" Precio="2.5">
+      <Nombre>Hamburguesa con Lechuga</Nombre>
+      <ingrediente>
+         <id>1</id>
+         <name>carne</name>
+         <price>2.0</price>
+      </ingrediente>
+      <ingrediente>
+         <id>2</id>
+         <name>lechuga</name>
+         <price>0.5</price>
+      </ingrediente>
+   </Hamburguesa>
+   <Hamburguesa id="3" Precio="5.250000000000001">
+      <Nombre>Hamburguesa Completa</Nombre>
+      <ingrediente>
+         <id>1</id>
+         <name>carne</name>
+         <price>2.0</price>
+      </ingrediente>
+      <ingrediente>
+         <id>2</id>
+         <name>lechuga</name>
+         <price>0.5</price>
+      </ingrediente>
+      <ingrediente>
+         <id>3</id>
+         <name>queso</name>
+         <price>1.0</price>
+      </ingrediente>
+      <ingrediente>
+         <id>6</id>
+         <name>bacon</name>
+         <price>0.7</price>
+      </ingrediente>
+      <ingrediente>
+         <id>5</id>
+         <name>cebolla</name>
+         <price>0.4</price>
+      </ingrediente>
+      <ingrediente>
+         <id>4</id>
+         <name>tomate</name>
+         <price>0.65</price>
+      </ingrediente>
+   </Hamburguesa>
+   <Hamburguesa id="4" Precio="4.6000000000000005">
+      <Nombre>Hamburguesa sin Tomate</Nombre>
+      <ingrediente>
+         <id>1</id>
+         <name>carne</name>
+         <price>2.0</price>
+      </ingrediente>
+      <ingrediente>
+         <id>3</id>
+         <name>queso</name>
+         <price>1.0</price>
+      </ingrediente>
+      <ingrediente>
+         <id>6</id>
+         <name>bacon</name>
+         <price>0.7</price>
+      </ingrediente>
+      <ingrediente>
+         <id>5</id>
+         <name>cebolla</name>
+         <price>0.4</price>
+      </ingrediente>
+      <ingrediente>
+         <id>2</id>
+         <name>lechuga</name>
+         <price>0.5</price>
+      </ingrediente>
+   </Hamburguesa>
+</Hamburguesas>

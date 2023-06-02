@@ -1,0 +1,25 @@
+{
+   "coches": [
+      {
+         "id": 6,
+         "marca": "Ford",
+         "modelo": "500",
+         "precio": 500.0,
+         "tipoMotor": "GASOLINA"
+      },
+      {
+         "id": 7,
+         "marca": "Alfa Romeo",
+         "modelo": "Stazione",
+         "precio": 1500.0,
+         "tipoMotor": "DIESEL"
+      },
+      {
+         "id": 8,
+         "marca": "SEAT",
+         "modelo": "Ibiza",
+         "precio": 1200.0,
+         "tipoMotor": "GASOLINA"
+      }
+   ]
+}

@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "name": "Hamburguesa con Queso",
+        "ingredientes": [
+            {
+                "id": 1,
+                "name": "carne",
+                "price": 2.0
+            },
+            {
+                "id": 3,
+                "name": "queso",
+                "price": 1.0
+            }
+        ],
+        "price": 3.0
+    },
+    {
+        "id": 2,
+        "name": "Hamburguesa con Lechuga",
+        "ingredientes": [
+            {
+                "id": 1,
+                "name": "carne",
+                "price": 2.0
+            },
+            {
+                "id": 2,
+                "name": "lechuga",
+                "price": 0.5
+            }
+        ],
+        "price": 2.5
+    },
+    {
+        "id": 3,
+        "name": "Hamburguesa Completa",
+        "ingredientes": [
+            {
+                "id": 1,
+                "name": "carne",
+                "price": 2.0
+            },
+            {
+                "id": 2,
+                "name": "lechuga",
+                "price": 0.5
+            },
+            {
+                "id": 3,
+                "name": "queso",
+                "price": 1.0
+            },
+            {
+                "id": 6,
+                "name": "bacon",
+                "price": 0.7
+            },
+            {
+                "id": 5,
+                "name": "cebolla",
+                "price": 0.4
+            },
+            {
+                "id": 4,
+                "name": "tomate",
+                "price": 0.65
+            }
+        ],
+        "price": 5.250000000000001
+    },
+    {
+        "id": 4,
+        "name": "Hamburguesa sin Tomate",
+        "ingredientes": [
+            {
+                "id": 1,
+                "name": "carne",
+                "price": 2.0
+            },
+            {
+                "id": 3,
+                "name": "queso",
+                "price": 1.0
+            },
+            {
+                "id": 6,
+                "name": "bacon",
+                "price": 0.7
+            },
+            {
+                "id": 5,
+                "name": "cebolla",
+                "price": 0.4
+            },
+            {
+                "id": 2,
+                "name": "lechuga",
+                "price": 0.5
+            }
+        ],
+        "price": 4.6000000000000005
+    }
+]

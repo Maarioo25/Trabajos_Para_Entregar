@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "carne",
+        "price": 2.0
+    },
+    {
+        "id": 2,
+        "name": "lechuga",
+        "price": 0.5
+    },
+    {
+        "id": 3,
+        "name": "queso",
+        "price": 1.0
+    },
+    {
+        "id": 4,
+        "name": "tomate",
+        "price": 0.65
+    },
+    {
+        "id": 5,
+        "name": "cebolla",
+        "price": 0.4
+    },
+    {
+        "id": 6,
+        "name": "bacon",
+        "price": 0.7
+    }
+]

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="300.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="loschinos_mariobueno.loschinos_mariobueno.controllers.AcercadeController">
+   <children>
+      <SplitPane dividerPositions="0.7" prefHeight="300.0" prefWidth="500.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <Label alignment="CENTER" contentDisplay="CENTER" layoutX="-2.0" layoutY="-43.0" prefHeight="300.0" prefWidth="350.0" text="Juego hecho por Mario Bueno López." textAlignment="CENTER">
+                     <font>
+                        <Font size="19.0" />
+                     </font>
+                  </Label>
+                  <Hyperlink fx:id="hyperlink" layoutX="83.0" layoutY="172.0" text="Mario Bueno">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                     <graphic>
+                        <ImageView fx:id="imagenGithub" fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../images/github.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </Hyperlink>
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+               <children>
+                  <ImageView fx:id="imagenCanica" fitHeight="120.0" fitWidth="120.0" layoutX="13.0" layoutY="89.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../images/imagen.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>

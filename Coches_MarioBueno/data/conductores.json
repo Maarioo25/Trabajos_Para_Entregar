@@ -1,0 +1,19 @@
+{
+   "conductores": [
+      {
+         "uuid": "5c570589-9f5e-46f3-9985-e3e2db3eb3a7",
+         "nombre": "Marcos",
+         "fechaCarnet": "2023-12-20"
+      },
+      {
+         "uuid": "5b169657-2a20-483e-a955-a271f44d3d73",
+         "nombre": "Martín",
+         "fechaCarnet": "2023-02-15"
+      },
+      {
+         "uuid": "86aeab86-1006-40da-bb65-27268c9b7419",
+         "nombre": "Cecilia",
+         "fechaCarnet": "2022-10-27"
+      }
+   ]
+}

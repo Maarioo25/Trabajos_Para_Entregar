@@ -1,0 +1,7 @@
+id,marca,modelo,precio,tipoMotor
+0,Ford,Fiesta,1500.00,GASOLINA
+1,Ford,Cuga,2700.00,GASOLINA
+2,Fiat,Hybrid,5200.00,HIBRIDO
+3,BMW,e46,3700.00,DIESEL
+4,Mercedes,a5,5500.00,ELECTRICO
+5,Lamborghini,Huracán,200000.00,DIESEL
